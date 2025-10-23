@@ -1,0 +1,1 @@
+export function trackEvent(name, payload){ try{ fetch('/api/analytics', { method:'POST', headers:{'content-type':'application/json'}, body: JSON.stringify({ name, payload, ts: Date.now() }) }); }catch(e){ console.warn('analytics failed', e); } }

@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "AtlasMobile",
+    "slug": "atlas-mobile",
+    "version": "0.1.0",
+    "sdkVersion": "49.0.0",
+    "platforms": ["ios","android","web"]
+  }
+}

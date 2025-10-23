@@ -1,0 +1,17 @@
+site_name: Project GenAtlasX
+site_description: Next-generation collaborative platform
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: 'cyan'
+      accent: 'blue'
+nav:
+  - Home: index.md
+  - Setup: setup.md
+  - Architecture: architecture.md
+  - API: api.md
+  - Developer Guide: dev-guide.md
+  - Changelog: changelog.md
+extra:
+  logo: assets/logo.svg
