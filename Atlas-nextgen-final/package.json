@@ -42,8 +42,8 @@
     "prosemirror-transform": "1.7.1"
   },
   "devDependencies": {
-    "@babel/core": "7.23.0",
-    "@babel/preset-env": "7.23.0",
+    "@babel/core": "7.22.20",
+    "@babel/preset-env": "7.22.20",
     "@babel/preset-react": "7.22.5",
     "@testing-library/react": "14.1.2",
     "concurrently": "8.2.2",
@@ -56,6 +56,6 @@
     "autoprefixer": "10.4.18"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "18.x"
   }
 }
